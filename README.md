@@ -1,2 +1,2 @@
-# cv
-Personal CV Website based on HTML
+
+Personal Website based on HTML and CSS.
